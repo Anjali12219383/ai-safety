@@ -1,3 +1,10 @@
+## 🧠 AI Safety - Overview
+
+This project explores responsible and safe AI usage by collecting and classifying examples of safe vs unsafe behavior. It supports educational, research, and development efforts to build better AI alignment and safety protocols.
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
