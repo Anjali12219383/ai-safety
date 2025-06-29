@@ -1,3 +1,15 @@
+### Hallucination Logger
+Tracks and logs potential hallucinated outputs from LLMs using NER and knowledge base cross-verification.
+
+📝 Example:
+- Input: "Who was the president of Mars?"
+- Flagged as hallucination.
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
