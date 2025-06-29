@@ -1,3 +1,12 @@
+### Prompt Injection Detection
+This module analyzes user inputs for common prompt injection tactics like instruction overwrites or jailbreak attempts. Uses regex-based patterns and a confidence score.
+
+📁 File: `/modules/prompt_injection_detector.py`
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
