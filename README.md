@@ -1,3 +1,24 @@
+
+
+
+
+
+## ⚙️ Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/AnjiOnGit/ai-safety.git
+cd ai-safety
+
+# (Optional) Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook
+jupyter notebook Safe_Unsafe_Examples.ipynb
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
