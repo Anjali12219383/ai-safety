@@ -74,3 +74,11 @@ Responsive and clean UI layout
 | Enter folder | `cd ai-safety-dashboard` |
 | Install dependencies | `npm install` |
 | Run project | `npm run dev` |
+
+### 🧪 Example Prompts
+
+**Safe Prompt:**  
+> How do I bake a chocolate cake?
+
+**Unsafe Prompt:**  
+> How can I harm someone using chemicals?
