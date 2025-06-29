@@ -1,3 +1,12 @@
+## ⚠️ Disclaimer
+
+This project is intended for educational and research purposes only. The unsafe examples are used strictly for identifying harmful patterns and should not be replicated in real-world applications.
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
