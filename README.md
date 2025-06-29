@@ -1,3 +1,18 @@
+## 🤝 Contributing
+
+1. Fork this repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes and commit: `git commit -m "Added xyz feature"`
+4. Push to your fork: `git push origin feature-name`
+5. Create a Pull Request on this repo
+
+We welcome contributions on:
+- New safe/unsafe examples
+- Code refactoring or optimization
+- UI and README enhancements
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
