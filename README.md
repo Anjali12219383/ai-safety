@@ -1,3 +1,13 @@
+## 🧪 Use Cases
+
+- Research on AI alignment and safety
+- Collecting prompts for adversarial testing
+- Building datasets for fine-tuning safe AI models
+- Educational projects on responsible AI use
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
