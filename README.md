@@ -64,6 +64,11 @@ Responsive and clean UI layout
   }
 ]
 
+## 🚀 Getting Started
+
+### Step 1: Install Jupyter Notebook
+```bash
+pip install notebook
 
 
 # Quick Summary
