@@ -1,3 +1,10 @@
+![Stars](https://img.shields.io/github/stars/AnjiOnGit/ai-safety?style=social)
+![Forks](https://img.shields.io/github/forks/AnjiOnGit/ai-safety?style=social)
+![License](https://img.shields.io/github/license/AnjiOnGit/ai-safety)
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
