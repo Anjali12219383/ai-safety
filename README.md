@@ -1,3 +1,11 @@
+## 📲 Try It Online
+
+- [Open in Google Colab](https://colab.research.google.com/github/AnjiOnGit/ai-safety/blob/main/Safe_Unsafe_Examples.ipynb)
+- [View in nbviewer](https://nbviewer.org/github/AnjiOnGit/ai-safety/blob/main/Safe_Unsafe_Examples.ipynb)
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
